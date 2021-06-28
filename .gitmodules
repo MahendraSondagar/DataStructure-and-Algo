@@ -4,3 +4,6 @@
 [submodule "Stack"]
 	path = Stack
 	url = https://github.com/MahendraSondagar/Stack
+[submodule "LookUp-Tables"]
+	path = LookUp-Tables
+	url = https://github.com/MahendraSondagar/LookUp-Tables
