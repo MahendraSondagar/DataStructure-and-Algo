@@ -7,3 +7,6 @@
 [submodule "LookUp-Tables"]
 	path = LookUp-Tables
 	url = https://github.com/MahendraSondagar/LookUp-Tables
+[submodule "Hash-Table"]
+	path = Hash-Table
+	url = https://github.com/MahendraSondagar/Hash-Table
