@@ -10,3 +10,6 @@
 [submodule "Hash-Table"]
 	path = Hash-Table
 	url = https://github.com/MahendraSondagar/Hash-Table
+[submodule "Binary-Tree"]
+	path = Binary-Tree
+	url = https://github.com/MahendraSondagar/Binary-Tree
