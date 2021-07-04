@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-/* Cellular commamd structure */
+/* Cellular commamd structure  */
 struct Cellular_Cmd_t
 {
   const char *cmd;
