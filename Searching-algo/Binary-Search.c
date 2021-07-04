@@ -28,7 +28,7 @@ int Do_BinarySearch(int *arr, int size, int start, int end, int byte, int *Index
 }
 int main(void)
 {
-    int arr[]={0,2,3,7,8,10,20,25,30,35};
+    int arr[]={1,2,3,7,8,10,20,25,30,35};
     int size= sizeof(arr)/sizeof(arr[0]);
     int MyByte = 25;
     int Index=0;
