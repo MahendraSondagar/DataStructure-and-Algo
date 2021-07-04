@@ -13,3 +13,6 @@
 [submodule "Binary-Tree"]
 	path = Binary-Tree
 	url = https://github.com/MahendraSondagar/Binary-Tree
+[submodule "Searching"]
+	path = Searching
+	url = https://github.com/MahendraSondagar/Searching
