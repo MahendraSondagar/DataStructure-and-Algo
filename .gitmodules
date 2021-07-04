@@ -19,3 +19,6 @@
 [submodule "Searching-algo"]
 	path = Searching-algo
 	url = https://github.com/MahendraSondagar/Searching-algo
+[submodule "Sorting-algo"]
+	path = Sorting-algo
+	url = https://github.com/MahendraSondagar/Sorting-algo
