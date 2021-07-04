@@ -16,3 +16,6 @@
 [submodule "Searching"]
 	path = Searching
 	url = https://github.com/MahendraSondagar/Searching
+[submodule "Searching-algo"]
+	path = Searching-algo
+	url = https://github.com/MahendraSondagar/Searching-algo
