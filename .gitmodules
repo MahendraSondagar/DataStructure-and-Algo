@@ -22,3 +22,6 @@
 [submodule "Sorting-algo"]
 	path = Sorting-algo
 	url = https://github.com/MahendraSondagar/Sorting-algo
+[submodule "Structure"]
+	path = Structure
+	url = https://github.com/MahendraSondagar/Structure
