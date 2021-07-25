@@ -25,3 +25,9 @@
 [submodule "Structure"]
 	path = Structure
 	url = https://github.com/MahendraSondagar/Structure
+[submodule "DataStructure-and-Algo"]
+	path = DataStructure-and-Algo
+	url = https://github.com/MahendraSondagar/DataStructure-and-Algo.git
+[submodule "array"]
+	path = array
+	url = https://github.com/MahendraSondagar/array
