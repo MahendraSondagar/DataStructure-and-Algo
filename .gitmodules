@@ -31,3 +31,6 @@
 [submodule "array"]
 	path = array
 	url = https://github.com/MahendraSondagar/array
+[submodule "Greedy_algo"]
+	path = Greedy_algo
+	url = https://github.com/MahendraSondagar/Greedy_algo
