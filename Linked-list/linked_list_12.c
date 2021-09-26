@@ -32,7 +32,7 @@ void PrintList(struct node *head)
     while (head != NULL)
     {
         printf("Data-> %d ->\t", head->data);
-        ;
+  
         head = head->link;
     }
     printf("NULL\r\n");
